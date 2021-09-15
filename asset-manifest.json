@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gerenciador-de-notas/static/css/main.4a15dfff.chunk.css",
+    "main.js": "/gerenciador-de-notas/static/js/main.d329c76f.chunk.js",
+    "main.js.map": "/gerenciador-de-notas/static/js/main.d329c76f.chunk.js.map",
+    "runtime-main.js": "/gerenciador-de-notas/static/js/runtime-main.bdface1b.js",
+    "runtime-main.js.map": "/gerenciador-de-notas/static/js/runtime-main.bdface1b.js.map",
+    "static/js/2.46642ead.chunk.js": "/gerenciador-de-notas/static/js/2.46642ead.chunk.js",
+    "static/js/2.46642ead.chunk.js.map": "/gerenciador-de-notas/static/js/2.46642ead.chunk.js.map",
+    "index.html": "/gerenciador-de-notas/index.html",
+    "precache-manifest.f3b8a03ba5bb83e6c734059b3a1e3790.js": "/gerenciador-de-notas/precache-manifest.f3b8a03ba5bb83e6c734059b3a1e3790.js",
+    "service-worker.js": "/gerenciador-de-notas/service-worker.js",
+    "static/css/main.4a15dfff.chunk.css.map": "/gerenciador-de-notas/static/css/main.4a15dfff.chunk.css.map",
+    "static/js/2.46642ead.chunk.js.LICENSE.txt": "/gerenciador-de-notas/static/js/2.46642ead.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdface1b.js",
+    "static/js/2.46642ead.chunk.js",
+    "static/css/main.4a15dfff.chunk.css",
+    "static/js/main.d329c76f.chunk.js"
+  ]
+}
