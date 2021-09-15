@@ -3,7 +3,7 @@
 .form-section {
   min-width: 250px;
   margin: 10px auto;
-  
+  flex-grow: 0.2;
 }
 
 .form-h1 {
