@@ -1,0 +1,17 @@
+@media (max-width: 440px) {
+  .lista-notas {
+    display:flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 441px) {
+  .lista-notas {
+    display:flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    justify-content: center;
+  }
+}

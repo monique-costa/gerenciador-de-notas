@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+.card-nota{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  min-width: 100px;
+  max-width: 12vw;
+  background: #dde6de;
+  border-radius: 4px;
+  padding: 15px;
+  margin: 10px;
+}
+
+.card-nota_titulo {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2em;
+  color: #658a69;
+  margin-bottom: 5px;
+}
+
+.card-nota_texto{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.05em;
+  color: #696969;
+}

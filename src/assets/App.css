@@ -1,0 +1,11 @@
+@media (max-width: 440px) {
+  .conteudo {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.conteudo{
+  display: flex;
+  padding: 30px;
+}

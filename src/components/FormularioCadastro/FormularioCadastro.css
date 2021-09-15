@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+.form-section {
+  min-width: 250px;
+  margin: 10px auto;
+  
+}
+
+.form-h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2em;
+  color: #658a69;
+  text-align: center;
+  
+}
+
+.form-cadastro{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.form-cadastro_input {
+  margin: 10px 0;
+  border: none;
+  background: #dde6de;
+  border-radius: 4px;
+  color: #696969;
+  font-family: 'Roboto', sans-serif;
+  padding: 8px;
+}
+
+.form-cadastro_submit {
+  color: white;
+  background: #658a69;
+  width: 40%;
+  align-self: flex-end;
+}
